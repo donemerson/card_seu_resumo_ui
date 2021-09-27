@@ -1,0 +1,1 @@
+export 'resumo/resumo.dart';
